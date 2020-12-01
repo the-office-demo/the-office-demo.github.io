@@ -10,5 +10,6 @@ This is a demo project designed to showcase the capability of Pelcro's Platform.
 
 
 ## Reference
+* Check out the Demo Project: The Office Gift Shop [here](https://the-office-demo.github.io)
 * To learn more about Pelcro: https://www.pelcro.com/en
 * Check out Pelcro's documentations: https://docs.pelcro.com/docs
